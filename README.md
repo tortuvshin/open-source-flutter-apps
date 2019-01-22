@@ -2,6 +2,15 @@
 
 <a href="https://flutter.io/">Flutter</a> Flutter allows you to build beautiful native apps on iOS and Android from a single codebase.
 
+<p>
+<img src="https://github.com/fablue/building-a-social-network-with-flutter/blob/master/lime-preview.gif" alt="feed example" width="200">
+<img src="https://user-images.githubusercontent.com/10066840/45931079-61844e00-bf36-11e8-80d5-e02f8123db59.gif" alt="feed example" width="200">
+<img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/portfolio.gif" alt="feed example" width="200">
+<img src="https://github.com/roughike/inKino/blob/development/assets/screenshots/now_in_theaters.png" alt="feed example" width="200">
+
+</p>
+
+
 ## Contents
 
 - [Business](#business)
@@ -26,6 +35,7 @@
 ### Communication
 
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
+- [FlutterMates](https://github.com/CodemateLtd/FlutterMates) - A sample app for our internal company talk about Flutter by [Codemate Ltd](https://github.com/CodemateLtd).
 - [SpaceX GO](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker by [Chechu](https://github.com/jesusrp98/).
 
 ### Education
@@ -65,6 +75,7 @@
 
 ### News and Magazine
 
+- [Flews](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 
 ### Personalization
