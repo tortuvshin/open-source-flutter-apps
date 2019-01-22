@@ -8,6 +8,7 @@
 - [Communication](#communication)
 - [Education](#education)
 - [Finance](#finance)
+- [Health and Fitness](#health-and-fitness)
 - [Intertainment](#intertainment)
 - [Games](#games)
 - [LifeStyle](#lifestyle)
@@ -33,6 +34,10 @@
 
 - [Trace](https://github.com/trentpiercy/trace) - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy).
 - [Platypus Crypto](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
+
+### Health and Fitness
+
+- [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
 
 ### Intertainment
 
