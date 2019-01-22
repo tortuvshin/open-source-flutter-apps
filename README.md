@@ -41,6 +41,7 @@
 
 ### Intertainment
 
+- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
 - [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
 
 ### Games
@@ -74,13 +75,15 @@
 - [BookSearch](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
 - [Taskist](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 - [Trinity Orientation](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
+- [Flutter Todo](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
 
 ### Social Network
 
-- [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
-- [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
-- [FlutterGram](https://github.com/mdanics/fluttergram) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
 - [Deer](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [FlutterGram](https://github.com/mdanics/fluttergram) - Complete Instagram based on Firestore & Google Functions by [MDanics](https://github.com/mdanics).
+- [Flutter Chat App](https://github.com/rohan20/flutter-chat-app) - A one-to-one chat app built on Flutter with firebase authentication and image sharing capability by [Rohan Taneja](https://github.com/rohan20).
+- [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
+- [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ### Shopping
 
