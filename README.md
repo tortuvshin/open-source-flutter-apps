@@ -100,6 +100,7 @@
 - [Flutter Chat App](https://github.com/rohan20/flutter-chat-app) - A one-to-one chat app built on Flutter with firebase authentication and image sharing capability by [Rohan Taneja](https://github.com/rohan20).
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
 - [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+- [FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
 
 ### Shopping
 
