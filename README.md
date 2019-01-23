@@ -86,6 +86,7 @@
 
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [BookSearch](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+- [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
 - [Taskist](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 - [Trinity Orientation](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Flutter Todo](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
