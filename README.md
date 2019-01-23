@@ -35,6 +35,7 @@
 ### Business
 
 - [Invoice Ninja](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
+- [Flutter Jobs App](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche](https://github.com/Rahiche/flutter_jobs_app).
 
 ### Communication
 
@@ -107,10 +108,11 @@
 ### Tools
 
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
-- [Trovami](https://github.com/Samaritan1011001/Trovami) -A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+- [Trovami](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Travel
 
+- [Tourism](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## License
 
