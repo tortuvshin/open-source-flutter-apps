@@ -7,6 +7,9 @@
 <img src="https://user-images.githubusercontent.com/10066840/45931079-61844e00-bf36-11e8-80d5-e02f8123db59.gif" alt="feed example" width="200">
 <img src="https://raw.githubusercontent.com/trentpiercy/trace/master/screenshots/gifs/portfolio.gif" alt="feed example" width="200">
 <img src="https://github.com/roughike/inKino/blob/development/assets/screenshots/now_in_theaters.png" alt="feed example" width="200">
+<img src="https://camo.githubusercontent.com/b72a57096fa62ca7bab347ca34c6f1bd59e3097f/68747470733a2f2f7468756d62732e6766796361742e636f6d2f436f6d706c65746553656c6672656c69616e744861636b65652d73697a655f726573747269637465642e676966" alt="feed example" width="200">
+<img src="https://github.com/open-flutter/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
+<img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
 
 </p>
 
@@ -32,6 +35,9 @@
 
 ### Business
 
+- [Invoice Ninja](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
+- [Flutter Jobs App](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche](https://github.com/Rahiche/flutter_jobs_app).
+
 ### Communication
 
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) - Unofficial conference app for DroidKaigi 2018 Tokyo by [konifar](https://github.com/konifar).
@@ -51,6 +57,7 @@
 
 ### Intertainment
 
+- [CineReel](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
 - [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
 - [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
 
@@ -80,10 +87,13 @@
 
 ### Personalization
 
+- [Furniture](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
+
 ### Productivity
 
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [BookSearch](https://github.com/Norbert515/BookSearch) - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515).
+- [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
 - [Taskist](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
 - [Trinity Orientation](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Flutter Todo](https://github.com/tuannguyendotme/flutter_todo) - This Todo app is implemented using Flutter by [Tuan Nguyen](https://github.com/tuannguyendotme).
@@ -95,16 +105,18 @@
 - [Flutter Chat App](https://github.com/rohan20/flutter-chat-app) - A one-to-one chat app built on Flutter with firebase authentication and image sharing capability by [Rohan Taneja](https://github.com/rohan20).
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
 - [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+- [FlutterWhatsAppClone](https://github.com/iampawan/FlutterWhatsAppClone) - Building a WhatsApp Clone in Flutter by [Pawan Kumar](https://github.com/iampawan).
 
 ### Shopping
 
 ### Tools
 
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
-- [Trovami](https://github.com/Samaritan1011001/Trovami) -A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
+- [Trovami](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 
 ### Travel
 
+- [Tourism](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## License
 
