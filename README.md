@@ -1,4 +1,6 @@
-### Open source flutter apps
+## Open source flutter apps
+
+![](https://img.shields.io/github/last-commit/tortuvshin/open-source-flutter-apps.svg?label=last%20update&style=for-the-badge)
 
 <a href="https://flutter.io/">Flutter</a> Flutter allows you to build beautiful native apps on iOS and Android from a single codebase.
 
@@ -119,5 +121,7 @@
 - [Tourism](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
 ## License
+
+> *This repository is inspired from [Open source ios apps.](https://github.com/dkhamsing/open-source-ios-apps "Open source ios apps")*
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
