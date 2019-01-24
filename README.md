@@ -113,6 +113,7 @@
 ### Shopping
 
 - [Grocery-App](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
+- [Flutter Games](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
 
 ### Tools
 
