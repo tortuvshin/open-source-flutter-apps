@@ -92,6 +92,7 @@
 ### Personalization
 
 - [Furniture](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
+- [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/dashboard).
 
 ### Productivity
 
