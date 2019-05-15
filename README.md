@@ -13,7 +13,7 @@
 <img src="https://camo.githubusercontent.com/b72a57096fa62ca7bab347ca34c6f1bd59e3097f/68747470733a2f2f7468756d62732e6766796361742e636f6d2f436f6d706c65746553656c6672656c69616e744861636b65652d73697a655f726573747269637465642e676966" alt="feed example" width="200">
 <img src="https://github.com/tortuvshin/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
 <img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
-
+<img src="https://raw.githubusercontent.com/MotionMobs/Sandwhich/master/media/animated.gif" alt="Sandwhich App" width="200">
 </p>
 
 
@@ -64,6 +64,7 @@
 - [CineReel](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
 - [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
 - [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+- [Sandwhich](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ### Games
 
