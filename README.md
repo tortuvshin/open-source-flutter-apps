@@ -22,9 +22,9 @@
 - [Business](#business)
 - [Communication](#communication)
 - [Education](#education)
+- [Entertainment](#entertainment)
 - [Finance](#finance)
 - [Health and Fitness](#health-and-fitness)
-- [Intertainment](#intertainment)
 - [Games](#games)
 - [LifeStyle](#lifestyle)
 - [Media](#media)
@@ -49,6 +49,14 @@
 
 ### Education
 
+
+### Entertainment
+
+- [CineReel](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
+- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
+- [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
+- [Sandwhich](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
+
 ### Finance
 
 - [Bit Alarm](https://github.com/damoonrashidi/bitalarm) - An app to keep track of different cryptocurrencies by [Damoon Rashidi](https://github.com/damoonrashidi).
@@ -58,13 +66,6 @@
 ### Health and Fitness
 
 - [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
-
-### Intertainment
-
-- [CineReel](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
-- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
-- [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
-- [Sandwhich](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 
 ### Games
 
