@@ -82,6 +82,7 @@
 ### Lifestyle
 
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor).
+- [Cíngulo](https://github.com/cingulo/flutter-sample/) - A guided therapy app created by experts that really helps people with mental health problems by [Ricardo Serro](https://github.com/rserro).
 
 ### Media
 
