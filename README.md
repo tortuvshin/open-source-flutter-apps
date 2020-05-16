@@ -78,6 +78,7 @@
 - [Crush](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 - [Solitaire](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
+- [Math Matrix](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
 
 ### Lifestyle
 
