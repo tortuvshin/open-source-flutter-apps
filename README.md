@@ -14,6 +14,7 @@
 <img src="https://github.com/tortuvshin/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
 <img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
 <img src="https://raw.githubusercontent.com/MotionMobs/Sandwhich/master/media/animated.gif" alt="Sandwhich App" width="200">
+<img src="https://github.com/shaxxx/Signalmeter2/raw/master/docs/esm.gif" alt="Enigma Signal Meter" width="200">  
 </p>
 
 
@@ -138,6 +139,7 @@
 - [Trovami](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 - [Wallpaper](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 - [Zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
+- [Enigma Signal Meter](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
 
 ### Travel
 
