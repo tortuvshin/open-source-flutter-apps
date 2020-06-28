@@ -139,6 +139,7 @@
 - [Trovami](https://github.com/Samaritan1011001/Trovami) - A Live location app created in Flutter using Firebase as the backend by [ManojNB](https://github.com/Samaritan1011001)
 - [Wallpaper](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 - [Zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
+- [Jagnik](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 
 ### Travel
 
