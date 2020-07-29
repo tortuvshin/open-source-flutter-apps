@@ -14,6 +14,7 @@
 <img src="https://github.com/tortuvshin/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
 <img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
 <img src="https://raw.githubusercontent.com/MotionMobs/Sandwhich/master/media/animated.gif" alt="Sandwhich App" width="200">
+<img src="https://raw.githubusercontent.com/j-j-gajjar/NewsApp/master/ScreenShots/Screenshot_1595243199.png" alt="NewsApp" width="200">
 </p>
 
 
@@ -97,6 +98,7 @@
 
 - [Flews](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
+- [NewsApp](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs
 
 ### Personalization
 
