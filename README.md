@@ -38,6 +38,7 @@
 
 ### Business
 
+- [Minsk8](https://github.com/comerc/minsk8) - Marketplace with Hasura & Firebase by [comerc](https://github.com/comerc) ([live-code](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)).
 - [Invoice Ninja](https://github.com/invoiceninja/flutter-mobile) - Companion app for the Invoice Ninja by [Invoice Ninja](https://github.com/invoiceninja).
 - [Flutter Jobs App](https://github.com/Rahiche/flutter_jobs_app) - Flutter job board app by [Raouf Rahiche](https://github.com/Rahiche/flutter_jobs_app).
 
