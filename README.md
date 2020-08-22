@@ -95,6 +95,7 @@
 - [InKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
+- [TuneIN](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
 
 ### News and Magazine
 
