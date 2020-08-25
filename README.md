@@ -66,6 +66,7 @@
 - [Platypus Crypto](https://github.com/Blakexx/CryptoTracker) - Platypus Crypto is an ad-free cross-platform robust solution for tracking cryptocurrency assets by [Blake Bottum](https://github.com/Blakexx).
 - [Wallet UI](https://github.com/kalismeras61/flutter_wallet_ui) - Flutter Wallet APP UI by [Yasin ilhan](https://github.com/kalismeras61).
 - [Money Tracker](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
+- [Piggyvault](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 
 ### Health and Fitness
 
