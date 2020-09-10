@@ -50,6 +50,8 @@
 
 ### Education
 
+- [Mathematics ](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+
 
 ### Entertainment
 
