@@ -73,6 +73,8 @@
 
 - [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
 
+- [Covid-Care](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
+
 ### Games
 
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
@@ -103,7 +105,8 @@
 
 - [Flews](https://github.com/jbarr21/flews) - A news client written in Flutter that displays top stories from Hacker News, Reddit's r/AndroidDev, Imgur's most viral, and GitHub top Java repos by [James Barr](https://github.com/jbarr21).
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
-- [NewsApp](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs
+- [NewsApp](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar)
+
 
 ### Personalization
 
