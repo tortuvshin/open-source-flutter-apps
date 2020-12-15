@@ -71,6 +71,7 @@
 - [Money Tracker](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
 - [Piggyvault](https://github.com/piggyvault/piggyvault) - Family finance management app by [Abhith Rajan](https://www.abhith.net).
 - [Bank Git](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
+- Receipt Manager](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager nad tracker by [Monolidth](https://github.com/monolidth)
 
 ### Health and Fitness
 
