@@ -170,6 +170,8 @@
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
+### Weather
+- [Weather](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
 ## License
 
 > *This repository is inspired from [Open source ios apps](https://github.com/dkhamsing/open-source-ios-apps "Open source ios apps") and [Open source android apps](https://github.com/pcqpcq/open-source-android-apps)* 
