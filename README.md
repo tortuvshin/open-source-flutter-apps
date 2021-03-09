@@ -174,6 +174,8 @@
 
 ### Weather
 - [Weather](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
+- [FlutterWeather](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
+
 ## License
 
 > *This repository is inspired from [Open source ios apps](https://github.com/dkhamsing/open-source-ios-apps "Open source ios apps") and [Open source android apps](https://github.com/pcqpcq/open-source-android-apps)* 
