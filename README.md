@@ -145,6 +145,7 @@
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
 - [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Tinder Card](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+- [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc) 
 
 ### Shopping
 
