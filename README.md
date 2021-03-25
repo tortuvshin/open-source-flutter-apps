@@ -51,8 +51,7 @@
 
 ### Education
 
-- [Mathematics ](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
-
+- [Mathematics](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 
 ### Entertainment
 
@@ -73,13 +72,14 @@
 - [Bank Git](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 - [Receipt Manager](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 - [Currency Alarm](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
+- [Be Thrifty Today](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 
 ### Health and Fitness
 
 - [Weight Tracker](https://github.com/MSzalek-Mobile/weight_tracker) - Weight Tracker is an application dedicated for people who want to dump or maintain weight by [Marcin Szałek](https://github.com/MarcinusX).
-
 - [Covid-Care](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
 - [Covid19-Tracker](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
+- [Smooth App](https://github.com/openfoodfacts/smooth-app) - To showcase Open Food Facts's power to a broad range of users through a smooth user experience and sleek user interface by [Open Food facts](https://github.com/openfoodfacts/)
 
 ### Games
 
@@ -108,6 +108,7 @@
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk).
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe).
 - [TuneIN](https://github.com/moda20/flutter-tunein) - Dynamic themed music player with casting [Moda20](https://github.com/moda20).
+- [Flutter Music](https://github.com/o-ifeanyi/musicPlayer) - A Flutter music player to play songs by [o-ifeanyi](https://github.com/o-ifeanyi)
 
 ### News and Magazine
 
@@ -115,7 +116,6 @@
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia).
 - [NewsApp](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
 - [InNews](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
-
 
 ### Personalization
 
@@ -137,7 +137,6 @@
 - [Yata](https://github.com/Rohithgilla12/yata) - Todo application that makes your todolist as your wallpaper by [Rohith Gilla](https://github.com/Rohithgilla12)
 - [Journapi](https://github.com/ChangJoo-Park/journapi_flutter) - Bullet journal application made with Flutter and GetX. by [ChangJoo Park](https://github.com/ChangJoo-Park)
 
-
 ### Social Network
 
 - [Deer](https://github.com/aleksanderwozniak/deer) - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak).
@@ -147,8 +146,11 @@
 - [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair.
 - [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 - [Tinder Card](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
+- [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
+- [GroupChatApp](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 
 ### Shopping
+
 - [Yumniastic Food Shop App](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 - [E-Commerce App](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 - [Grocery-App](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
@@ -156,6 +158,7 @@
 - [Plantly](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [Rapidinho](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
 ](https://github.com/gdgluanda).
+- [LaCoro Q-commerce app](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 
 ### Tools
 
@@ -165,6 +168,7 @@
 - [Zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 - [Enigma Signal Meter](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
 - [Jagnik](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
+- [Flutter Browser App](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
 ### Travel
 
@@ -174,11 +178,12 @@
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
 ### Weather
+
 - [Weather](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
 - [FlutterWeather](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ## License
 
-> *This repository is inspired from [Open source ios apps](https://github.com/dkhamsing/open-source-ios-apps "Open source ios apps") and [Open source android apps](https://github.com/pcqpcq/open-source-android-apps)* 
+> *This repository is inspired from [Open source ios apps](https://github.com/dkhamsing/open-source-ios-apps "Open source ios apps") and [Open source android apps](https://github.com/pcqpcq/open-source-android-apps)*
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
