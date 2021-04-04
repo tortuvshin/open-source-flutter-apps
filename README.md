@@ -75,6 +75,7 @@
 - [Receipt Manager](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 - [Currency Alarm](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
 - [Be Thrifty Today](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
+- [Natrium](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 
 ### Health and Fitness
 
