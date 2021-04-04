@@ -56,6 +56,7 @@
 ### Entertainment
 
 - [CineReel](https://github.com/kserko/CineReel) - You can see lists for Now playing, Top Rated, Popular and Upcoming movies by [serko](https://github.com/kserko).
+- [Flutter Ebook App](https://github.com/JideGuru/FlutterEbookApp) — A simple Flutter app to read and download e-books by [Festus Olusegun](https://github.com/JideGuru)
 - [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy) - Movie app which is developed using flutter and powered by tmdb. by [Bhavik Makwana](https://github.com/ibhavikmakwana).
 - [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
 - [Sandwhich](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
