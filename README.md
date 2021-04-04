@@ -132,6 +132,7 @@
 - [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) - An open source Github client App developed by Flutter by [Shuyu Guo](https://github.com/CarGuo).
 - [Habbit](https://github.com/lzyy/habbit) - Habbit is an ultra simple habit tracker that just works by [Li Zhong](https://github.com/lzyy/habbit).
 - [Taskist](https://github.com/huextrat/Taskist) - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat).
+- [Time Cop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy by [Kenton Hamaluik](https://github.com/hamaluik).
 - [Trinity Orientation](https://github.com/matthewtory/trinity-orientation-2018) - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Notes App](https://github.com/bimsina/notes-app) - Note Taking App made with Flutter with Sqlite as database by [Bibek Timsina](https://github.com/bimsina).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52).
