@@ -130,6 +130,7 @@
 - [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [Tailor made](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 - [Wallbay](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
+- [BUWA (Black Unicorn Wallpapers)](https://github.com/iamtheblackunicorn/Buwa), the best wallpaper app for Android that features aesthetically-pleasing and sexy wallpapers and gets new wallpapers every other week by [The Black Unicorn](https://github.com/iamtheblackunicorn).
 
 ### Productivity
 
