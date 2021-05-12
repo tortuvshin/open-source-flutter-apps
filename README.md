@@ -168,6 +168,7 @@
 - [Rapidinho](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
 ](https://github.com/gdgluanda).
 - [LaCoro Q-commerce app](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
+- [Flutter WooCommerce app](https://github.com/woosignal/flutter-woocommerce-app) - Flutter WooCommerce app template by [WooSignal](https://github.com/woosignal)
 
 ### Tools
 
