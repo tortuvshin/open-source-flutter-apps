@@ -157,6 +157,7 @@
 - [Tinder Card](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage by [Sonu Sharma](https://github.com/TheAlphamerc)
 - [GroupChatApp](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
+- [Harpy](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering](https://github.com/robertodoering/harpy)
 
 ### Shopping
 
