@@ -61,6 +61,7 @@
 - [Toughest](https://github.com/MDSADABWASIM/Toughest) - Tricky questions and answer- Offline Interview Q/A by [MD SADAB WASIM](https://github.com/MDSADABWASIM).
 - [Sandwhich](https://github.com/MotionMobs/Sandwhich) - An app to solve the age-old sandwich debate built using machine learning, Flutter, and TensorFlow Lite by [MotionMobs](https://github.com/MotionMobs)
 - [TV Randshow](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
+- [AnimSearch](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Finance
 
