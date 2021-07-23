@@ -1,9 +1,8 @@
 ## Open source flutter apps
 
-![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![](https://img.shields.io/github/last-commit/tortuvshin/open-source-flutter-apps.svg?label=last%20update&style=flat)
 
-<a href="https://flutter.io/">Flutter</a> Flutter allows you to build beautiful native apps on iOS and Android Platforms from a single codebase. The main goal of this repository is to find free open source apps and start contributing to it. Feel free to [contribute](https://github.com/tortuvshin/open-source-flutter-apps/graphs/contributors) to the list, any suggestions are always welcomed!
+<a href="https://flutter.io/">Flutter</a> is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.. The main goal of this repository is to find free open source apps and start contributing to it. Feel free to [contribute](https://github.com/tortuvshin/open-source-flutter-apps/graphs/contributors) to the list, any suggestions are always welcomed!
 
 <p>
 <img src="https://github.com/fablue/building-a-social-network-with-flutter/blob/master/lime-preview.gif" alt="feed example" width="200">
