@@ -1,31 +1,31 @@
+# Contribution Guidelines
 
-# Contributing to the Project
-Welcome aboard, we are excited to have you. Please keep the following steps in mind before contributing to the project. If you are new to git these steps will help you to make your first successful contribution.
-## Steps to Contribute in the projects listed:
-1. ### Fork the repository you want to contribute to
-    - Click on the fork button on the top. This will create a copy of this repository in your account.
+Please ensure your pull request adheres to the following guidelines:
 
-2. ### Create a Branch
-    - Once you have cloned the repository on your local machine, make a new branch inside the directory by running `git checkout -b <branch-name>` in your terminal
-    - For Example:
-      `git checkout -b new-feature`
-    - This will help you to keep the **Tree Hygiene**.
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- **Make an individual pull request for each suggestion.**
+- Use the following format: `[resource](link) - Description by [Author](link to author)`
+- New categories, or improvements to the existing categorization are welcome.
+- Keep descriptions short and simple, but descriptive.
+- Don't mention Flutter in the description as it's implied.
+- Don't include iOS and Android versions or Swift and Java versions in the description.
+- End all descriptions with a full stop/period.
+- Check your spelling and grammar.
+- Make sure that your suggestion is positioned as the last item category.
+- Make sure your text editor is set to remove trailing whitespace.
+- Make sure your project is elegible before open a pull request.
 
-3. ### Make necessary changes and commit those changes
-    - Add or delete necessary modules as per requirement and commit those changes.
-    - Once you are done with the changes, add those changes to your branch by `git add .`
-    - Now commit those changes using `git commit -m "<detail of changes>"`
-    - For example:
-      ```sh
-        git add .
-        git commit -m "Added padding to the Scaffold"
-      ```
+#### Deleting
 
-4. ### Push changes to Github
-    - Push the changes by `git push <fork-url> <branch-name>`
+To be added to the list, software should meet the following criteria:
 
-5. ### Submit a Pull Request
-    - Now, if you go to your repo you'll see a `Compare & Pull Request` button.Click on that, and submit the code for review.
-    - If the code works well after the review, you will have a **Successful Contribution**
+- No updates / no longer works
+- Deprecated
+- Lacks license
+- Archived projects
+- Lack recent commit
+- Have lower than 20 stargazers in Github
+- README or code comments aren't written in English
+- README is not clear
 
----
+Your contributions are always welcome! Thank you for your suggestions! :smiley:
