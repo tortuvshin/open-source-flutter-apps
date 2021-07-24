@@ -185,6 +185,8 @@
 - [Jagnik](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 - [Flutter Browser App](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 - [You](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
+- [Weather](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
+- [FlutterWeather](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ### Travel
 
@@ -192,11 +194,6 @@
 - [Tourism](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
-
-### Weather
-
-- [Weather](https://github.com/1hanzla100/flutter-weather) - Weather App Built with Flutter and OpenWeatherMap API by  [1hanzla100](https://github.com/1hanzla100/).
-- [FlutterWeather](https://github.com/ArizArmeidi/FlutterWeather) - Weather App with clean and modern UI by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
 ## License
 
