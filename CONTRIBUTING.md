@@ -24,7 +24,7 @@ To be added to the list, software should meet the following criteria:
 - Lacks license
 - Archived projects
 - Lack recent commit
-- Have lower than 20 stargazers in Github
+- Have lower than 10 stargazers in Github
 - README or code comments aren't written in English
 - README is not clear
 
