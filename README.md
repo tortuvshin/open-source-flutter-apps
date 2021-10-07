@@ -163,6 +163,7 @@
 - [GroupChatApp](https://github.com/ahmedgulabkhan/GroupChatApp) - Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other by [Ahmed Gulab Khan](https://github.com/ahmedgulabkhan)
 - [Harpy](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering](https://github.com/robertodoering/harpy)
 - [Fedi](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
+- [Twitter Image Picker Clone](https://github.com/skripsimu/flutter_twitter_image_picker_clone) - Building a Twitter Image Picker Clone in Flutter. [Tegar](https://github.com/skripsimu)
 
 ### Shopping
 
