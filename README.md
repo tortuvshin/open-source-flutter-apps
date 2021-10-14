@@ -77,6 +77,7 @@
 - [Be Thrifty Today](https://github.com/AmruthPillai/BeThriftyToday) - A simple and secure money manager that keeps you financially vigilant by [Amruth Pillai](https://github.com/AmruthPillai)
 - [Natrium](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 - [Light Wallet](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
+- [Auction](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y_pakorn](https://github.com/y-pakorn)
 
 ### Health and Fitness
 
