@@ -33,6 +33,7 @@
 - [Shopping](#shopping)
 - [Tools](#tools)
 - [Travel](#travel)
+- [Encryption](#encryption)
 
 ### Business
 
@@ -200,6 +201,10 @@
 - [Tourism](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
+
+### Encryption
+
+- [RSA Encryption](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 
 ## License
 
