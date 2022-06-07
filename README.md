@@ -79,6 +79,7 @@
 - [Natrium](https://github.com/appditto/natrium_wallet_flutter) — A fast, robust & secure NANO Wallet by [Appditto](https://github.com/appditto)
 - [Light Wallet](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
 - [Auction](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y_pakorn](https://github.com/y-pakorn)
+- [HADWIN](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
 ### Health and Fitness
 
