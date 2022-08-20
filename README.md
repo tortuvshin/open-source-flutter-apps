@@ -201,6 +201,7 @@
 - [Blink Comparison](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
 - [Airdash](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
 - [Voting Dapp](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
+- [NetworkArch](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ### Travel
 
