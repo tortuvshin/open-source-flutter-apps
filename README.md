@@ -95,6 +95,7 @@
 
 ### Games
 
+- [Arcade Plaza](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
 - [Sudoku](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
 - [Pokedex](https://github.com/scitbiz/flutter_pokedex) - Pokedex app built by [Pham Sy Hung](https://github.com/scitbiz).
 - [Hangman](https://github.com/jerald-jacob/Flutter-Apps/tree/master/Hangman)-Hangman game word hunting by [Jerald jacob](https://github.com/jerald-jacob/)
