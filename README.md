@@ -50,6 +50,7 @@
 ### Education
 
 - [Mathematics](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
+- [TubeCards](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 
 ### Entertainment
 
