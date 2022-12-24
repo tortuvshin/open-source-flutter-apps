@@ -82,6 +82,7 @@
 - [Light Wallet](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
 - [Auction](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y_pakorn](https://github.com/y-pakorn)
 - [HADWIN](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
+- [MMAS: Money Tracker](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
 
 ### Health and Fitness
 
