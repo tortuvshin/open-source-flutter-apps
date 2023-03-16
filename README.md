@@ -94,7 +94,7 @@
 - [wger](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 - [QuitSmoke](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 - [WorkoutTracker](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
-- [Meditation App](https://github.com/Re4ch-Jay/Meditation_App) - An app that make you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
+- [Meditation App](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
 
 ### Games
 
