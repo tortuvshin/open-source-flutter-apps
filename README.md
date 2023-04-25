@@ -63,6 +63,7 @@
 - [Doddle- (become an artist in a minute)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 - [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 - [Aniflix](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
+- [FlutterLeague](https://github.com/csuka1219/Flutter_League) -  Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
 
 ### Finance
 
