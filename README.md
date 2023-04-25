@@ -149,6 +149,7 @@
 - [Tailor made](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 - [Wallbay](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 - [BUWA (Black Unicorn Wallpapers)](https://github.com/iamtheblackunicorn/Buwa), the best wallpaper app for Android that features aesthetically-pleasing and sexy wallpapers and gets new wallpapers every other week by [The Black Unicorn](https://github.com/iamtheblackunicorn).
+- [LifeList](https://github.com/Spyy004/LifeList) - Plan, Track, and Achieve Your Life Goals Effortlessly by [Ayush Pawar](https://github.com/Spyy004)
 
 ### Productivity
 
