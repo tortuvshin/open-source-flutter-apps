@@ -216,6 +216,7 @@
 - [RSA Encryption](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
 - [Immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 - [EasyWeather](https://github.com/tejasbadone/EasyWeather) - Displays real-time weather data for your current location and any other location you choose by [Tejas Badone](https://github.com/tejasbadone)
+- [EncrytX](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
 
 ### Travel
 
