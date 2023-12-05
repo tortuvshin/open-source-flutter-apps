@@ -134,6 +134,7 @@
 - [Movies App](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 - [MovieLab](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
+- [Kimo-Anime](https://github.com/yon30c/kimoi) - An app to watch anime subtitled in Spanish by [Yon30c](https://github.com/yon30c).
 
 ### News and Magazine
 
@@ -169,6 +170,7 @@
 - [LibreTrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app by [Yaroslav Pronin](https://github.com/proninyaroslav)
 - [Virlow Flutter Recorder](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by [Virlow Voice](https://github.com/proninyaroslav](https://github.com/virlow-voice)
 - [NotePad](https://github.com/sarvesh4396/notepad) - A very simple notepad app with no fancy features to distract you. Just write what you want and tag by [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
+- [Openreads](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 
 ### Social Network
 
@@ -218,6 +220,7 @@
 - [Immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 - [EasyWeather](https://github.com/tejasbadone/EasyWeather) - Displays real-time weather data for your current location and any other location you choose by [Tejas Badone](https://github.com/tejasbadone)
 - [EncrytX](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
+- [Ejimo](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
 
 ### Travel
 
