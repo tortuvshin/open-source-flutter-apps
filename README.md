@@ -12,6 +12,7 @@
 <img src="https://camo.githubusercontent.com/b72a57096fa62ca7bab347ca34c6f1bd59e3097f/68747470733a2f2f7468756d62732e6766796361742e636f6d2f436f6d706c65746553656c6672656c69616e744861636b65652d73697a655f726573747269637465642e676966" alt="feed example" width="200">
 <img src="https://github.com/tortuvshin/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
 <img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
+<img src="https://github.com/tejasbadone/flutterzon_bloc/blob/main/assets/images/flutterzon.gif?raw=true" alt="feed example" width="200">
 </p>
 
 ## Contents
@@ -63,7 +64,7 @@
 - [Doddle- (become an artist in a minute)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
 - [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 - [Aniflix](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
-- [FlutterLeague](https://github.com/csuka1219/Flutter_League) -  Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
+- [FlutterLeague](https://github.com/csuka1219/Flutter_League) - Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
 
 ### Finance
 
@@ -198,6 +199,7 @@
   ](https://github.com/gdgluanda).
 - [LaCoro Q-commerce app](https://github.com/LaCoro/ConsumerFlutterApp) - An open source quick commerce app in flutter by [LaCoro](https://github.com/LaCoro)
 - [Flutter WooCommerce app](https://github.com/woosignal/flutter-woocommerce-app) - A ready-made app template for WooCommerce stores by [WooSignal](https://github.com/woosignal)
+- [Flutterzon](https://github.com/tejasbadone/flutterzon_bloc) - Designed as an Amazon clone, leveraging Flutter, Node.js, MongoDB, and Bloc for state management. Additionally, it features an Admin Panel for advanced control and management by [Tejas Badone](https://github.com/tejasbadone)
 
 ### Tools
 
