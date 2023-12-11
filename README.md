@@ -13,6 +13,7 @@
 <img src="https://github.com/tortuvshin/open-source-flutter-apps/blob/master/art/new%20flutter%20jobs.gif" alt="feed example" width="200">
 <img src="https://user-images.githubusercontent.com/8137504/49392298-09e33980-f754-11e8-9fc2-7cd12b62e604.png" alt="feed example" width="200">
 <img src="https://github.com/tejasbadone/flutterzon_bloc/blob/main/assets/images/flutterzon.gif?raw=true" alt="feed example" width="200">
+<img src="https://github.com/tejasbadone/EasyWeather/blob/master/assets/images/easyweather.gif?raw=true" alt="feed example" width="200">
 </p>
 
 ## Contents
