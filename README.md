@@ -33,6 +33,7 @@
 - [Shopping](#shopping)
 - [Tools](#tools)
 - [Travel](#travel)
+- [Simulation](#simulation)
 
 ### Business
 
@@ -231,6 +232,9 @@
 - [Tourism](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
+
+### Simulation
+- [Barrett-2090-XV-3088-Flutter-Simulation](https://github.com/hadiuzzaman524/Barrett-2090-XV-3088-Flutter-Simulation) - Army Simulation app by [Hadiuzzaman](https://github.com/hadiuzzaman524)
 
 ## License
 
