@@ -52,6 +52,7 @@
 
 - [Mathematics](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 - [TubeCards](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+- [Neumorphic Calculator](https://github.com/mllrr96/Neumorphic-Calculator) -  Elegant and highly customizable calculator app with a beautiful neumorphic design by [Mohammed Ragheb](https://github.com/mllrr96)
 
 ### Entertainment
 
