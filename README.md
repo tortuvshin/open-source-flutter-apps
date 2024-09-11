@@ -52,6 +52,7 @@
 
 - [Mathematics](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 - [TubeCards](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
+- [Flutter animations](https://github.com/AyanDas-99/Flutter-animations) - A sample app to learn basic to advanced flutter animations by [Ayan Das](https://github.com/AyanDas-99).
 
 ### Entertainment
 
