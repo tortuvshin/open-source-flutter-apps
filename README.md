@@ -53,6 +53,7 @@
 - [Mathematics](https://github.com/j-j-gajjar/mathematics/) - Generate MCQ PDF / Question PDF : With Answer and Quiz [J-J-GAJJAR](https://github.com/j-j-gajjar).
 - [TubeCards](https://github.com/friebetill/tubecards/) - Cross-platform Spaced Repetition App for flashcards by [friebetill](https://github.com/friebetill).
 - [Neumorphic Calculator](https://github.com/mllrr96/Neumorphic-Calculator) -  Elegant and highly customizable calculator app with a beautiful neumorphic design by [Mohammed Ragheb](https://github.com/mllrr96)
+- [Flutter animations](https://github.com/AyanDas-99/Flutter-animations) - A sample app to learn basic to advanced flutter animations by [Ayan Das](https://github.com/AyanDas-99).
 
 ### Entertainment
 
@@ -101,6 +102,7 @@
 - [QuitSmoke](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
 - [WorkoutTracker](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 - [Meditation App](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
+- [Calm Attack](https://github.com/FatoomRe/Calm-Attack) - An app that help to manage panic attacks. Provides a range of exercises and techniques to help users calm their mind and body during anxiety moments. by [FatoomRe](https://github.com/FatoomRe).
 
 ### Games
 
