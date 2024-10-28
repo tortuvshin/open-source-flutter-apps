@@ -178,6 +178,7 @@
 - [NotePad](https://github.com/sarvesh4396/notepad) - A very simple notepad app with no fancy features to distract you. Just write what you want and tag by [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 - [Tasker](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
+- [MindWrite](https://github.com/mohhamad-esmaili/mindwrite) - A notebook for you thoughts ,clone of Google KeepNotes by [Mohammad Esmaili](https://github.com/mohhamad-esmaili).
 
 ### Social Network
 
