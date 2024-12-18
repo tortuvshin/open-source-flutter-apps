@@ -238,9 +238,11 @@
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
 ### Simulation
+
 - [Barrett-2090-XV-3088-Flutter-Simulation](https://github.com/hadiuzzaman524/Barrett-2090-XV-3088-Flutter-Simulation) - Army Simulation app by [Hadiuzzaman](https://github.com/hadiuzzaman524)
 
 ### Photos & Videos
+
 - [Cloud Gallery](https://github.com/canopas/cloud-gallery) - An app for easily managing, organizing, and backing up your photos and videos across local storage, Google Drive, and Dropbox—all in one place. By [Canopas](https://github.com/canopas)
 
 ## License
