@@ -178,6 +178,7 @@
 - [NotePad](https://github.com/sarvesh4396/notepad) - A very simple notepad app with no fancy features to distract you. Just write what you want and tag by [Sarvesh Kumar Dwivedi](https://github.com/sarvesh4396)
 - [Openreads](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 - [Tasker](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
+- [QuickNote](https://github.com/makjac/quick_note) - An intuitive notes management app that lets you easily create and organize your notes using flexible blocks. [Maksymilian Jackowski](https://github.com/makjac).
 
 ### Social Network
 
