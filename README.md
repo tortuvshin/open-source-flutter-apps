@@ -1,5 +1,5 @@
 # MeteoApp
-Simple Meteo App that ask the user the consent for localization services, than displays the name of the city, an animated image displaying the main condition and the degrees (in °C)
+Simple Meteo App that ask the user the consent for localization services, than displays the name of the city, an animated image displaying the main condition and the degrees (in °C).
 
 
 ## Screenshot here: 
