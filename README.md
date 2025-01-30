@@ -1,7 +1,6 @@
 # MeteoApp
 Simple Meteo App that ask the user the consent for localization services, than displays the name of the city, an animated image displaying the main condition and the degrees (in °C)
 
-[Meteo App](https://github.com/PaulXV/Meteo_App/)
 
 ## Check Also
 If you want, visit my profile for more flutter app:
