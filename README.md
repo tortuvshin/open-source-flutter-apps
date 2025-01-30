@@ -230,6 +230,7 @@
 - [EasyWeather](https://github.com/tejasbadone/EasyWeather) - Displays real-time weather data for your current location and any other location you choose by [Tejas Badone](https://github.com/tejasbadone)
 - [EncrytX](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
 - [Ejimo](https://github.com/albemala/emoji-picker) - Cross-platform emoji and symbol picker by [albemala](https://github.com/albemala)
+- [Meteo App](https://github.com/PaulXV/Meteo_App) - Simple Meteo App that displays the meteo of a city by [PaulXV](https://github.com/PaulXV)
 
 ### Travel
 
