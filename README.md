@@ -17,6 +17,7 @@
 
 ## Contents
 
+- [Art and Design](#art-and-design)
 - [Business](#business)
 - [Communication](#communication)
 - [Education](#education)
@@ -34,6 +35,10 @@
 - [Tools](#tools)
 - [Travel](#travel)
 - [Simulation](#simulation)
+
+### Art and Design
+
+- [ColorHap](https://github.com/tecdrop/color_hap) - A random color generator that shuffles millions of colors and lets you copy and share colors with others by [Tecdrop](https://www.tecdrop.com/).
 
 ### Business
 
