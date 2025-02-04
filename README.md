@@ -179,6 +179,7 @@
 - [Openreads](https://github.com/mateusz-bak/openreads-android) - A privacy oriented books tracker that allows you to keep track of your readings by [mateusz-bak](https://github.com/mateusz-bak).
 - [Only Contacts](https://github.com/Ehtiram-Ullah/Contacts_app) - A contact management app by [Ehtiram Ullah](https://github.com/Ehtiram-Ullah).
 - [Tasker](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
+- [MindWrite](https://github.com/mohhamad-esmaili/mindwrite) - A notebook for you thoughts ,clone of Google KeepNotes by [Mohammad Esmaili](https://github.com/mohhamad-esmaili).
 
 ### Social Network
 
