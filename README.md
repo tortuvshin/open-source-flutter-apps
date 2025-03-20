@@ -129,7 +129,6 @@
 
 ### Media
 
-- [Cinema Booking](https://github.com/ChunhThanhDe/cinema-booking) - An app for booking movie tickets, built with Flutter Clean Template, BLoC, REST API, Firebase Auth, and Unit Tests by [ChunhThanhDe](https://github.com/ChunhThanhDe)
 - [TMDBM](https://github.com/88srzh/comics_db) - The Movie Database Mobile is a popular database for movies and TV shows by [srzh](https://github.com/88srzh)
 - [Grey](https://github.com/avirias/Grey) - A Material designed music player developed in Flutter by [Avinash Kumar](https://github.com/avirias).
 - [InKino](https://github.com/roughike/inKino) - A multiplatform Dart movie app by [Iiro Krankka](https://github.com/roughike).
@@ -142,6 +141,7 @@
 - [MovieLab](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
 - [Kimo-Anime](https://github.com/yon30c/kimoi) - An app to watch anime subtitled in Spanish by [Yon30c](https://github.com/yon30c).
+- [Cinema Booking](https://github.com/ChunhThanhDe/cinema-booking) - An app for booking movie tickets, built with Flutter Clean Template, BLoC, REST API, Firebase Auth, and Unit Tests by [ChunhThanhDe](https://github.com/ChunhThanhDe).
 
 ### News and Magazine
 
