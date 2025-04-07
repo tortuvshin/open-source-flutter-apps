@@ -194,6 +194,7 @@
 - [Harpy](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering](https://github.com/robertodoering/harpy)
 - [Fedi](https://github.com/Big-Fig/Fediverse.app) - Open-source client for Pleroma and Mastodon social networks by [Big-Fig](https://github.com/Big-Fig)
 - [Skyfeed](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+- [Snag](https://github.com/mihalycsaba/snag) - Client application for steamgifts.com by [mihalycsaba](https://github.com/mihalycsaba).
 
 ### Shopping
 
