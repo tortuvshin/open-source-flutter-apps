@@ -140,6 +140,7 @@
 - [MovieLab](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter by [Ankit Sangwan](https://github.com/Sangwan5688).
 - [Kimo-Anime](https://github.com/yon30c/kimoi) - An app to watch anime subtitled in Spanish by [Yon30c](https://github.com/yon30c).
+- [Cinema Booking](https://github.com/ChunhThanhDe/cinema-booking) - An app for booking movie tickets, built with Flutter Clean Template, BLoC, REST API, Firebase Auth, and Unit Tests by [ChunhThanhDe](https://github.com/ChunhThanhDe).
 
 ### News and Magazine
 
