@@ -120,6 +120,7 @@
 - [Truth or Dare](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 - [FlutterDex](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 - [Space Empires](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+- [TriPeaks NEUE](https://github.com/mimoguz/tripeaks_neue) - A Tri Peaks patience (solitaire) game by [Oguz Tas](https://github.com/mimoguz). 
 
 ### Lifestyle
 
