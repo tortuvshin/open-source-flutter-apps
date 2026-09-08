@@ -45,20 +45,30 @@ sourceDescription: Daily diary & journaling app
 github:
   repository:
     full_name: Demizo/Daily_You
-    stargazers_count: 1289
+    stargazers_count: 1292
     forks_count: 58
-    open_issues_count: 58
+    open_issues_count: 57
     language: Dart
-    pushed_at: 2026-09-06T22:54:33Z
-    updated_at: 2026-09-07T03:26:17Z
+    pushed_at: 2026-09-07T19:42:50Z
+    updated_at: 2026-09-08T07:09:03Z
     archived: false
     disabled: false
     default_branch: master
     license:
       spdx_id: GPL-3.0
       name: GPL-3.0
-    topics: []
+    topics:
+      - diary
+      - flutter
+      - journal
+      - markdown
+      - memory
+      - mood-tracker
+      - note-taking
+      - notes-app
+      - offline-first
+      - privacy
   latestReleaseAt: 2026-09-05T02:44:41Z
   sync:
-    syncedAt: 2026-09-07T04:03:54.248Z
+    syncedAt: 2026-09-08T11:41:02.528Z
     source: api

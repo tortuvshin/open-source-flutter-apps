@@ -51,7 +51,7 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-07T04:04:09.376Z
+    syncedAt: 2026-09-08T11:41:13.130Z
     source: api
   repository:
     full_name: brandonp2412/MarketMonk
@@ -59,8 +59,8 @@ github:
     forks_count: 5
     open_issues_count: 0
     language: Dart
-    pushed_at: 2026-09-06T22:20:59Z
-    updated_at: 2026-09-06T22:21:03Z
+    pushed_at: 2026-09-08T01:31:20Z
+    updated_at: 2026-09-08T01:31:36Z
     archived: false
     disabled: false
     default_branch: main
@@ -83,5 +83,5 @@ github:
       - stocks
       - windows
       - yahoo-finance
-  latestReleaseAt: 2026-09-05T05:33:11Z
+  latestReleaseAt: 2026-09-08T00:52:36Z
   homepage: https://f-droid.org/packages/com.codesail.market_monk
