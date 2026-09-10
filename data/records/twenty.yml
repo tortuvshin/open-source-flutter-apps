@@ -128,16 +128,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:25.510Z
+    syncedAt: 2026-09-10T10:03:26.399Z
     source: api
   repository:
     full_name: twentyhq/twenty
-    stargazers_count: 56432
-    forks_count: 8987
-    open_issues_count: 181
+    stargazers_count: 56524
+    forks_count: 9023
+    open_issues_count: 197
     language: TypeScript
-    pushed_at: 2026-09-08T11:38:44Z
-    updated_at: 2026-09-08T11:36:17Z
+    pushed_at: 2026-09-10T09:51:47Z
+    updated_at: 2026-09-10T09:52:47Z
     archived: false
     disabled: false
     default_branch: main
@@ -162,5 +162,5 @@ github:
       - sales
       - typescript
       - web
-  latestReleaseAt: 2026-09-06T20:12:23Z
+  latestReleaseAt: 2026-09-09T15:12:30Z
   homepage: https://twenty.com

@@ -69,16 +69,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:15.319Z
+    syncedAt: 2026-09-10T10:03:13.656Z
     source: api
   repository:
     full_name: FriesI23/mhabit
-    stargazers_count: 1556
-    forks_count: 89
+    stargazers_count: 1560
+    forks_count: 91
     open_issues_count: 79
     language: Dart
     pushed_at: 2026-09-07T09:30:51Z
-    updated_at: 2026-09-08T11:00:39Z
+    updated_at: 2026-09-10T09:57:23Z
     archived: false
     disabled: false
     default_branch: main

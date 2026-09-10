@@ -85,12 +85,12 @@ content: ./content/records/authier.md
 github:
   repository:
     full_name: authier-pm/authier
-    stargazers_count: 17
+    stargazers_count: 22
     forks_count: 2
-    open_issues_count: 53
+    open_issues_count: 51
     language: TypeScript
-    pushed_at: 2026-09-08T07:18:44Z
-    updated_at: 2026-09-08T05:26:26Z
+    pushed_at: 2026-09-10T06:59:48Z
+    updated_at: 2026-09-10T06:59:55Z
     archived: false
     disabled: false
     default_branch: main
@@ -121,7 +121,7 @@ github:
   latestReleaseAt: 2026-09-02T16:46:12Z
   homepage: https://www.authier.pm/
   sync:
-    syncedAt: 2026-09-08T11:40:58.651Z
+    syncedAt: 2026-09-10T10:02:51.649Z
     source: api
 health:
   status: active

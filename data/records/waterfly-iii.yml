@@ -55,16 +55,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:26.892Z
+    syncedAt: 2026-09-10T10:03:28.254Z
     source: api
   repository:
     full_name: dreautall/waterfly-iii
-    stargazers_count: 703
+    stargazers_count: 705
     forks_count: 66
     open_issues_count: 37
     language: Dart
     pushed_at: 2026-09-07T19:12:46Z
-    updated_at: 2026-09-08T05:41:24Z
+    updated_at: 2026-09-09T20:45:05Z
     archived: false
     disabled: false
     default_branch: master

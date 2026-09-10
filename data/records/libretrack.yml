@@ -102,7 +102,7 @@ github:
     releases_url: https://api.github.com/repos/proninyaroslav/libretrack/releases{/id}
     deployments_url: https://api.github.com/repos/proninyaroslav/libretrack/deployments
     created_at: 2021-06-18T10:09:46Z
-    updated_at: 2026-09-08T08:34:28Z
+    updated_at: 2026-09-09T07:01:52Z
     pushed_at: 2026-06-30T19:05:23Z
     git_url: git://github.com/proninyaroslav/libretrack.git
     ssh_url: git@github.com:proninyaroslav/libretrack.git
@@ -174,7 +174,7 @@ github:
     openPullRequests: 1
     contributorsKnown: 6
   sync:
-    syncedAt: 2026-09-08T11:41:11.474Z
+    syncedAt: 2026-09-10T10:03:08.538Z
     source: api
   languages:
     Dart: 1910458

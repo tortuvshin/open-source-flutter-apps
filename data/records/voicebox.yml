@@ -123,16 +123,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:26.537Z
+    syncedAt: 2026-09-10T10:03:27.800Z
     source: api
   repository:
     full_name: jamiepine/voicebox
-    stargazers_count: 52616
-    forks_count: 6560
-    open_issues_count: 680
+    stargazers_count: 52873
+    forks_count: 6604
+    open_issues_count: 685
     language: TypeScript
     pushed_at: 2026-08-09T00:03:42Z
-    updated_at: 2026-09-08T11:23:12Z
+    updated_at: 2026-09-10T09:53:18Z
     archived: false
     disabled: false
     default_branch: main

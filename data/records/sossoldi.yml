@@ -53,7 +53,7 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:21.437Z
+    syncedAt: 2026-09-10T10:03:21.391Z
     source: api
   repository:
     full_name: RIP-Comm/sossoldi
@@ -62,7 +62,7 @@ github:
     open_issues_count: 37
     language: Dart
     pushed_at: 2026-08-24T09:18:33Z
-    updated_at: 2026-09-07T08:15:58Z
+    updated_at: 2026-09-09T06:26:15Z
     archived: false
     disabled: false
     default_branch: main

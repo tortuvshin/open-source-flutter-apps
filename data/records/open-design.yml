@@ -127,16 +127,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:17.677Z
+    syncedAt: 2026-09-10T10:03:16.675Z
     source: api
   repository:
     full_name: nexu-io/open-design
-    stargazers_count: 94835
-    forks_count: 10963
-    open_issues_count: 956
+    stargazers_count: 95286
+    forks_count: 11033
+    open_issues_count: 969
     language: TypeScript
-    pushed_at: 2026-09-08T11:35:50Z
-    updated_at: 2026-09-08T11:37:03Z
+    pushed_at: 2026-09-10T10:02:15Z
+    updated_at: 2026-09-10T09:53:58Z
     archived: false
     disabled: false
     default_branch: main
@@ -164,5 +164,5 @@ github:
       - prototyping
       - ui-generator
       - vibe-coding
-  latestReleaseAt: 2026-08-31T13:07:04Z
+  latestReleaseAt: 2026-09-09T12:30:14Z
   homepage: https://open-design.ai
