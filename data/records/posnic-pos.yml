@@ -107,10 +107,10 @@ github:
     full_name: Posnic/POS
     stargazers_count: 3
     forks_count: 8
-    open_issues_count: 408
+    open_issues_count: 410
     language: JavaScript
-    pushed_at: 2026-09-04T10:28:00Z
-    updated_at: 2026-09-04T10:28:04Z
+    pushed_at: 2026-09-07T22:18:25Z
+    updated_at: 2026-09-07T20:07:45Z
     archived: false
     disabled: false
     default_branch: develop
@@ -141,5 +141,5 @@ github:
   latestReleaseAt: 2026-08-28T04:45:42Z
   homepage: https://www.posnic.com/
   sync:
-    syncedAt: 2026-09-07T04:04:18.066Z
+    syncedAt: 2026-09-08T11:41:19.139Z
     source: api

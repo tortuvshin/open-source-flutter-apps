@@ -60,16 +60,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-07T04:04:11.081Z
+    syncedAt: 2026-09-08T11:41:14.417Z
     source: api
   repository:
     full_name: meditohq/medito-app
-    stargazers_count: 1307
+    stargazers_count: 1308
     forks_count: 165
     open_issues_count: 1
     language: Dart
     pushed_at: 2026-09-02T14:19:10Z
-    updated_at: 2026-09-06T23:17:11Z
+    updated_at: 2026-09-07T06:01:41Z
     archived: false
     disabled: false
     default_branch: develop

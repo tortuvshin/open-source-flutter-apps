@@ -58,16 +58,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-07T04:04:20.121Z
+    syncedAt: 2026-09-08T11:41:20.464Z
     source: api
   repository:
     full_name: heckmon/roxum-ide
-    stargazers_count: 601
+    stargazers_count: 602
     forks_count: 51
-    open_issues_count: 11
+    open_issues_count: 12
     language: Dart
     pushed_at: 2026-08-25T08:09:52Z
-    updated_at: 2026-09-06T14:30:13Z
+    updated_at: 2026-09-07T12:56:14Z
     archived: false
     disabled: false
     default_branch: playstore-version

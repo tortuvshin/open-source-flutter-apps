@@ -65,12 +65,12 @@ health:
 github:
   repository:
     full_name: LinwoodDev/Butterfly
-    stargazers_count: 1999
+    stargazers_count: 2004
     forks_count: 147
     open_issues_count: 45
     language: Dart
-    pushed_at: 2026-09-06T17:47:22Z
-    updated_at: 2026-09-06T21:01:39Z
+    pushed_at: 2026-09-07T21:05:16Z
+    updated_at: 2026-09-08T07:33:44Z
     archived: false
     disabled: false
     default_branch: develop
@@ -100,5 +100,5 @@ github:
   latestReleaseAt: 2026-08-10T12:27:46Z
   homepage: https://butterfly.linwood.dev
   sync:
-    syncedAt: 2026-09-07T04:03:52.183Z
+    syncedAt: 2026-09-08T11:41:01.127Z
     source: api

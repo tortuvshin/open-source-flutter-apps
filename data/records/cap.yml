@@ -41,16 +41,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-07T04:03:53.196Z
+    syncedAt: 2026-09-08T11:41:01.756Z
     source: api
   repository:
     full_name: CapSoftware/Cap
-    stargazers_count: 21870
-    forks_count: 1874
-    open_issues_count: 330
+    stargazers_count: 21952
+    forks_count: 1882
+    open_issues_count: 336
     language: Rust
-    pushed_at: 2026-09-06T19:47:28Z
-    updated_at: 2026-09-07T04:02:27Z
+    pushed_at: 2026-09-08T11:19:23Z
+    updated_at: 2026-09-08T10:49:29Z
     archived: false
     disabled: false
     default_branch: main
