@@ -39,7 +39,7 @@ The development app downloads and runs its local database during setup. For pack
 ## Verified sources
 
 - Posnic POS repository: <https://github.com/Posnic/POS>
-- Posnic website: <https://posnic.io/>
+- Posnic website: <https://www.posnic.com/>
 - Latest release: <https://github.com/Posnic/POS/releases/tag/v1.6.1>
 - User guide: <https://github.com/Posnic/POS/blob/develop/docs/USER_GUIDE.md>
 - Self-hosting guide: <https://github.com/Posnic/POS/blob/develop/docs/SELF_HOSTING.md>
