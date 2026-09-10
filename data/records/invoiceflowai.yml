@@ -4,6 +4,7 @@ slug: invoiceflowai
 addedAt: 2026-09-09
 description: InvoiceFlowAI is an open-source desktop app that collects PDF, OFD, and XML invoices from supported email accounts, extracts fields with OCR, removes duplicates, organizes files, and exports an Excel summary.
 summary: A Windows and macOS workflow for freelancers and small teams who need to move invoices from email attachments into reviewable folders and spreadsheets while keeping uncertain recognition results visible for human checking.
+sourceDescription: Desktop invoice collection, OCR, organization, and Excel export for Windows and macOS.
 content: ./content/records/invoiceflowai.md
 category: finance
 tags:
