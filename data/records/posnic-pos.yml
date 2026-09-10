@@ -36,7 +36,7 @@ projectType: real-app
 repoUrl: https://github.com/Posnic/POS
 links:
   github: https://github.com/Posnic/POS
-  website: https://posnic.io/
+  website: https://www.posnic.com/
   docs: https://github.com/Posnic/POS/tree/develop/docs
 licenses:
   - agpl-3.0
@@ -139,7 +139,7 @@ github:
       - retail-pos
       - windows
   latestReleaseAt: 2026-08-28T04:45:42Z
-  homepage: https://posnic.io/
+  homepage: https://www.posnic.com/
   sync:
     syncedAt: 2026-09-07T04:04:18.066Z
     source: api
