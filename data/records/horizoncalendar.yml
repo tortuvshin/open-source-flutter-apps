@@ -114,7 +114,7 @@ github:
     releases_url: https://api.github.com/repos/airbnb/HorizonCalendar/releases{/id}
     deployments_url: https://api.github.com/repos/airbnb/HorizonCalendar/deployments
     created_at: 2020-06-17T01:06:23Z
-    updated_at: 2026-09-06T22:48:45Z
+    updated_at: 2026-09-08T12:14:38Z
     pushed_at: 2026-09-03T20:43:33Z
     git_url: git://github.com/airbnb/HorizonCalendar.git
     ssh_url: git@github.com:airbnb/HorizonCalendar.git
@@ -122,7 +122,7 @@ github:
     svn_url: https://github.com/airbnb/HorizonCalendar
     homepage: ""
     size: 20381
-    stargazers_count: 3158
+    stargazers_count: 3159
     watchers_count: 3149
     language: Swift
     has_issues: true
@@ -198,7 +198,7 @@ github:
     openPullRequests: 8
     contributorsKnown: 14
   sync:
-    syncedAt: 2026-09-08T11:41:08.467Z
+    syncedAt: 2026-09-10T10:03:04.609Z
     source: api
   languages:
     Swift: 615725

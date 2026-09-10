@@ -48,16 +48,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:16.698Z
+    syncedAt: 2026-09-10T10:03:15.365Z
     source: api
   repository:
     full_name: emavgl/oinkoin
     stargazers_count: 464
-    forks_count: 52
-    open_issues_count: 20
+    forks_count: 53
+    open_issues_count: 21
     language: Dart
-    pushed_at: 2026-09-05T10:06:56Z
-    updated_at: 2026-09-08T09:01:20Z
+    pushed_at: 2026-09-08T21:14:59Z
+    updated_at: 2026-09-08T21:15:47Z
     archived: false
     disabled: false
     default_branch: master

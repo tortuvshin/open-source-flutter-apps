@@ -59,16 +59,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-08T11:41:06.971Z
+    syncedAt: 2026-09-10T10:03:02.867Z
     source: api
   repository:
     full_name: xpavle00/Habo
-    stargazers_count: 1503
-    forks_count: 178
+    stargazers_count: 1502
+    forks_count: 177
     open_issues_count: 31
     language: Dart
     pushed_at: 2026-06-15T20:55:35Z
-    updated_at: 2026-09-07T15:11:42Z
+    updated_at: 2026-09-08T14:59:29Z
     archived: false
     disabled: false
     default_branch: master

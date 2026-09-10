@@ -39,12 +39,12 @@ source:
 github:
   repository:
     full_name: Sutera-Diffusus/WeChat-daily
-    stargazers_count: 22
+    stargazers_count: 24
     forks_count: 6
     open_issues_count: 0
     language: Python
     pushed_at: 2026-08-24T16:45:03Z
-    updated_at: 2026-09-04T18:30:28Z
+    updated_at: 2026-09-09T11:28:06Z
     archived: false
     disabled: false
     default_branch: main
@@ -67,7 +67,7 @@ github:
   latestReleaseAt: 2026-08-24T11:44:07Z
   homepage: null
   sync:
-    syncedAt: 2026-09-08T11:41:27.197Z
+    syncedAt: 2026-09-10T10:03:28.627Z
     source: api
   html:
     license: MIT
