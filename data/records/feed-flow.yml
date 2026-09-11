@@ -130,7 +130,7 @@ github:
     mirror_url: null
     archived: false
     disabled: false
-    open_issues_count: 92
+    open_issues_count: 93
     license:
       spdx_id: Apache-2.0
       name: Apache-2.0
@@ -176,7 +176,7 @@ github:
     openPullRequests: 12
     contributorsKnown: 98
   sync:
-    syncedAt: 2026-09-11T03:23:42.641Z
+    syncedAt: 2026-09-11T09:50:42.971Z
     source: api
   languages:
     Kotlin: 3332089

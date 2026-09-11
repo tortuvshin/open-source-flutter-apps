@@ -55,16 +55,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-11T03:24:01.140Z
+    syncedAt: 2026-09-11T09:50:59.965Z
     source: api
   repository:
     full_name: RockxyApp/Rockxy
     stargazers_count: 1360
     forks_count: 74
-    open_issues_count: 105
+    open_issues_count: 104
     language: Swift
-    pushed_at: 2026-09-11T03:17:52Z
-    updated_at: 2026-09-10T15:50:10Z
+    pushed_at: 2026-09-11T08:21:49Z
+    updated_at: 2026-09-11T08:21:56Z
     archived: false
     disabled: false
     default_branch: main
