@@ -125,7 +125,7 @@ github:
     has_wiki: true
     has_pages: false
     has_discussions: false
-    forks_count: 721
+    forks_count: 720
     mirror_url: null
     archived: false
     disabled: false
@@ -175,7 +175,7 @@ github:
     openPullRequests: 14
     contributorsKnown: 147
   sync:
-    syncedAt: 2026-09-10T10:03:05.052Z
+    syncedAt: 2026-09-11T03:23:48.060Z
     source: api
   languages:
     Swift: 1292685

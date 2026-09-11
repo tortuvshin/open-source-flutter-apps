@@ -57,7 +57,7 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-10T10:03:25.527Z
+    syncedAt: 2026-09-11T03:24:06.546Z
     source: api
   repository:
     full_name: RockxyApp/Tracexy
@@ -65,7 +65,7 @@ github:
     forks_count: 4
     open_issues_count: 30
     language: Swift
-    pushed_at: 2026-09-08T11:23:12Z
+    pushed_at: 2026-09-10T10:11:08Z
     updated_at: 2026-09-08T11:23:23Z
     archived: false
     disabled: false
