@@ -69,9 +69,9 @@ github:
     full_name: cake-tech/cake_wallet
     stargazers_count: 1902
     forks_count: 391
-    open_issues_count: 348
+    open_issues_count: 350
     language: Dart
-    pushed_at: 2026-09-10T23:42:30Z
+    pushed_at: 2026-09-11T09:25:58Z
     updated_at: 2026-09-10T22:28:33Z
     archived: false
     disabled: false
@@ -101,5 +101,5 @@ github:
   latestReleaseAt: 2026-09-04T16:43:55Z
   homepage: https://cakewallet.com
   sync:
-    syncedAt: 2026-09-11T03:23:39.237Z
+    syncedAt: 2026-09-11T09:50:39.761Z
     source: api

@@ -68,16 +68,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-11T03:24:01.889Z
+    syncedAt: 2026-09-11T09:51:00.684Z
     source: api
   repository:
     full_name: rustdesk/rustdesk
-    stargazers_count: 123123
-    forks_count: 18956
-    open_issues_count: 147
+    stargazers_count: 123148
+    forks_count: 18969
+    open_issues_count: 148
     language: Rust
-    pushed_at: 2026-09-11T03:04:18Z
-    updated_at: 2026-09-11T03:16:48Z
+    pushed_at: 2026-09-11T07:18:09Z
+    updated_at: 2026-09-11T09:43:29Z
     archived: false
     disabled: false
     default_branch: master

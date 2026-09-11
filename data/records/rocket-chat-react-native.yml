@@ -103,7 +103,7 @@ github:
     releases_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases{/id}
     deployments_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/deployments
     created_at: 2017-08-03T18:21:33Z
-    updated_at: 2026-09-10T23:26:29Z
+    updated_at: 2026-09-11T05:35:01Z
     pushed_at: 2026-09-10T23:37:35Z
     git_url: git://github.com/RocketChat/Rocket.Chat.ReactNative.git
     ssh_url: git@github.com:RocketChat/Rocket.Chat.ReactNative.git
@@ -111,7 +111,7 @@ github:
     svn_url: https://github.com/RocketChat/Rocket.Chat.ReactNative
     homepage: https://rocket.chat
     size: 371077
-    stargazers_count: 2413
+    stargazers_count: 2412
     watchers_count: 2407
     language: TypeScript
     has_issues: true
@@ -192,7 +192,7 @@ github:
     openPullRequests: 255
     contributorsKnown: 139
   sync:
-    syncedAt: 2026-09-11T03:24:00.774Z
+    syncedAt: 2026-09-11T09:50:59.573Z
     source: api
   languages:
     TypeScript: 3888674

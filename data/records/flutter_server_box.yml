@@ -58,16 +58,16 @@ github:
     language: null
     topics: []
   sync:
-    syncedAt: 2026-09-11T03:23:45.125Z
+    syncedAt: 2026-09-11T09:50:45.193Z
     source: api
   repository:
     full_name: lollipopkit/flutter_server_box
-    stargazers_count: 8683
-    forks_count: 554
-    open_issues_count: 10
+    stargazers_count: 8686
+    forks_count: 553
+    open_issues_count: 14
     language: Dart
-    pushed_at: 2026-09-10T16:46:40Z
-    updated_at: 2026-09-11T00:56:03Z
+    pushed_at: 2026-09-11T09:36:26Z
+    updated_at: 2026-09-11T09:00:28Z
     archived: false
     disabled: false
     default_branch: main
