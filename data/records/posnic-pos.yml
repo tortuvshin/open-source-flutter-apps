@@ -107,10 +107,10 @@ github:
     full_name: Posnic/POS
     stargazers_count: 3
     forks_count: 9
-    open_issues_count: 410
+    open_issues_count: 405
     language: JavaScript
-    pushed_at: 2026-09-09T19:55:42Z
-    updated_at: 2026-09-09T17:58:17Z
+    pushed_at: 2026-09-11T01:32:50Z
+    updated_at: 2026-09-11T02:04:37Z
     archived: false
     disabled: false
     default_branch: develop
@@ -120,7 +120,6 @@ github:
     topics:
       - billing-software
       - electron
-      - fossradar
       - inventory-management
       - linux
       - macos
@@ -134,6 +133,7 @@ github:
       - point-of-sale-system
       - pos
       - pos-software
+      - pos-system
       - restaurant
       - retail
       - retail-pos
@@ -141,5 +141,5 @@ github:
   latestReleaseAt: 2026-08-28T04:45:42Z
   homepage: https://www.posnic.com/
   sync:
-    syncedAt: 2026-09-10T10:03:18.374Z
+    syncedAt: 2026-09-11T03:24:00.023Z
     source: api

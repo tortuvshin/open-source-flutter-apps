@@ -85,8 +85,8 @@ github:
     forks_count: 1
     open_issues_count: 0
     language: Dart
-    pushed_at: 2026-09-10T09:48:05Z
-    updated_at: 2026-09-10T09:49:06Z
+    pushed_at: 2026-09-10T10:29:07Z
+    updated_at: 2026-09-10T10:27:03Z
     archived: false
     disabled: false
     default_branch: main
@@ -107,8 +107,8 @@ github:
       - storage
       - system-monitor
       - uninstaller
-  latestReleaseAt: 2026-09-07T17:43:14Z
+  latestReleaseAt: 2026-09-10T10:29:22Z
   homepage: https://devshakib.jumyn.com/apps/helm
   sync:
-    syncedAt: 2026-09-10T10:03:04.095Z
+    syncedAt: 2026-09-11T03:23:47.152Z
     source: api
