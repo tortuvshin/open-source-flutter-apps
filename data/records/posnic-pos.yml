@@ -76,7 +76,6 @@ caveats:
     components including MongoDB Community Server under SSPL-1.0.
   - Windows is the best-tested retail-hardware target; macOS and Linux builds are published but
     tested less.
-  - Builds may show operating-system trust warnings until signing and notarization mature.
   - The project is early and low-star, so evaluate it as a useful codebase rather than a popularity
     signal.
 source:
